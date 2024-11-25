@@ -1,0 +1,14 @@
+C:\Users\nsqoc\OneDrive\Desktop\Methods\bin\Debug\net9.0\Methods.exe
+C:\Users\nsqoc\OneDrive\Desktop\Methods\bin\Debug\net9.0\Methods.deps.json
+C:\Users\nsqoc\OneDrive\Desktop\Methods\bin\Debug\net9.0\Methods.runtimeconfig.json
+C:\Users\nsqoc\OneDrive\Desktop\Methods\bin\Debug\net9.0\Methods.dll
+C:\Users\nsqoc\OneDrive\Desktop\Methods\bin\Debug\net9.0\Methods.pdb
+C:\Users\nsqoc\OneDrive\Desktop\Methods\obj\Debug\net9.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsqoc\OneDrive\Desktop\Methods\obj\Debug\net9.0\Methods.AssemblyInfoInputs.cache
+C:\Users\nsqoc\OneDrive\Desktop\Methods\obj\Debug\net9.0\Methods.AssemblyInfo.cs
+C:\Users\nsqoc\OneDrive\Desktop\Methods\obj\Debug\net9.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\nsqoc\OneDrive\Desktop\Methods\obj\Debug\net9.0\Methods.dll
+C:\Users\nsqoc\OneDrive\Desktop\Methods\obj\Debug\net9.0\refint\Methods.dll
+C:\Users\nsqoc\OneDrive\Desktop\Methods\obj\Debug\net9.0\Methods.pdb
+C:\Users\nsqoc\OneDrive\Desktop\Methods\obj\Debug\net9.0\Methods.genruntimeconfig.cache
+C:\Users\nsqoc\OneDrive\Desktop\Methods\obj\Debug\net9.0\ref\Methods.dll

@@ -1,0 +1,14 @@
+C:\Users\nsqoc\OneDrive\Desktop\Double\bin\Debug\net9.0\Double.exe
+C:\Users\nsqoc\OneDrive\Desktop\Double\bin\Debug\net9.0\Double.deps.json
+C:\Users\nsqoc\OneDrive\Desktop\Double\bin\Debug\net9.0\Double.runtimeconfig.json
+C:\Users\nsqoc\OneDrive\Desktop\Double\bin\Debug\net9.0\Double.dll
+C:\Users\nsqoc\OneDrive\Desktop\Double\bin\Debug\net9.0\Double.pdb
+C:\Users\nsqoc\OneDrive\Desktop\Double\obj\Debug\net9.0\Double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsqoc\OneDrive\Desktop\Double\obj\Debug\net9.0\Double.AssemblyInfoInputs.cache
+C:\Users\nsqoc\OneDrive\Desktop\Double\obj\Debug\net9.0\Double.AssemblyInfo.cs
+C:\Users\nsqoc\OneDrive\Desktop\Double\obj\Debug\net9.0\Double.csproj.CoreCompileInputs.cache
+C:\Users\nsqoc\OneDrive\Desktop\Double\obj\Debug\net9.0\Double.dll
+C:\Users\nsqoc\OneDrive\Desktop\Double\obj\Debug\net9.0\refint\Double.dll
+C:\Users\nsqoc\OneDrive\Desktop\Double\obj\Debug\net9.0\Double.pdb
+C:\Users\nsqoc\OneDrive\Desktop\Double\obj\Debug\net9.0\Double.genruntimeconfig.cache
+C:\Users\nsqoc\OneDrive\Desktop\Double\obj\Debug\net9.0\ref\Double.dll

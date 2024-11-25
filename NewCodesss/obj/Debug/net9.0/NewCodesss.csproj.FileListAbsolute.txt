@@ -1,0 +1,14 @@
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\bin\Debug\net9.0\NewCodesss.exe
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\bin\Debug\net9.0\NewCodesss.deps.json
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\bin\Debug\net9.0\NewCodesss.runtimeconfig.json
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\bin\Debug\net9.0\NewCodesss.dll
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\bin\Debug\net9.0\NewCodesss.pdb
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\obj\Debug\net9.0\NewCodesss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\obj\Debug\net9.0\NewCodesss.AssemblyInfoInputs.cache
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\obj\Debug\net9.0\NewCodesss.AssemblyInfo.cs
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\obj\Debug\net9.0\NewCodesss.csproj.CoreCompileInputs.cache
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\obj\Debug\net9.0\NewCodesss.dll
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\obj\Debug\net9.0\refint\NewCodesss.dll
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\obj\Debug\net9.0\NewCodesss.pdb
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\obj\Debug\net9.0\NewCodesss.genruntimeconfig.cache
+C:\Users\nsqoc\OneDrive\Desktop\NewCodesss\obj\Debug\net9.0\ref\NewCodesss.dll

@@ -1,0 +1,14 @@
+C:\Users\nsqoc\OneDrive\Desktop\program\bin\Debug\net9.0\program.exe
+C:\Users\nsqoc\OneDrive\Desktop\program\bin\Debug\net9.0\program.deps.json
+C:\Users\nsqoc\OneDrive\Desktop\program\bin\Debug\net9.0\program.runtimeconfig.json
+C:\Users\nsqoc\OneDrive\Desktop\program\bin\Debug\net9.0\program.dll
+C:\Users\nsqoc\OneDrive\Desktop\program\bin\Debug\net9.0\program.pdb
+C:\Users\nsqoc\OneDrive\Desktop\program\obj\Debug\net9.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsqoc\OneDrive\Desktop\program\obj\Debug\net9.0\program.AssemblyInfoInputs.cache
+C:\Users\nsqoc\OneDrive\Desktop\program\obj\Debug\net9.0\program.AssemblyInfo.cs
+C:\Users\nsqoc\OneDrive\Desktop\program\obj\Debug\net9.0\program.csproj.CoreCompileInputs.cache
+C:\Users\nsqoc\OneDrive\Desktop\program\obj\Debug\net9.0\program.dll
+C:\Users\nsqoc\OneDrive\Desktop\program\obj\Debug\net9.0\refint\program.dll
+C:\Users\nsqoc\OneDrive\Desktop\program\obj\Debug\net9.0\program.pdb
+C:\Users\nsqoc\OneDrive\Desktop\program\obj\Debug\net9.0\program.genruntimeconfig.cache
+C:\Users\nsqoc\OneDrive\Desktop\program\obj\Debug\net9.0\ref\program.dll
